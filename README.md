@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ashish Srivastava (@ashi2592)
 - 👀 I’m interested in coding, learning
-- 🌱 I’m currently learning javaScript, Node, React, Angular,
-- 💞️ I’m looking to collaborate on javaScript
+- 🌱 I’m currently learning Node, React, typescript
+- 💞️ I’m looking to collaborate on javaScript, Azure, AWs
 - 📫 How to reach me ashishsrivastava4u.09@gmail.com Drop your message here
 
 <!---
